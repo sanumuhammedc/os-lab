@@ -1,7 +1,3 @@
-/*SHIFNA P
-CS B
-20220091*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
